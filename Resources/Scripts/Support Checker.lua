@@ -28,4 +28,3 @@ if not Drawing then SendNotification(Title, "Your exploit does not support the l
 if not getgenv then SendNotification(Title, "Your exploit does not support getgenv()", 3) return end
 
 SendNotification(Title, "Your exploit supports this script.", 3)
---
