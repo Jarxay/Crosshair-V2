@@ -1,0 +1,12 @@
+{
+  "CenterDotFilled": true,
+  "Color": "0, 255, 0",
+  "CenterDotColor": "0, 255, 0",
+  "CenterDotSize": 1,
+  "CenterDotTransparency": 1,
+  "Thickness": 1,
+  "Transparency": 1,
+  "GapSize": 5,
+  "CenterDot": false,
+  "Size": 12
+}
